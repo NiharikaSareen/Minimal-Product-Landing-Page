@@ -4,7 +4,7 @@ Responsive cards with hover effect
 
 ## Author
 
-* **Niharika Sareen** - *Initial work*
+* **Niharika Sareen**
 
 ## Animation Effect
 
